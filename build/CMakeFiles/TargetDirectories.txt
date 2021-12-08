@@ -1,0 +1,3 @@
+/home/asa/Desktop/RedNoise/build/CMakeFiles/rebuild_cache.dir
+/home/asa/Desktop/RedNoise/build/CMakeFiles/edit_cache.dir
+/home/asa/Desktop/RedNoise/build/CMakeFiles/RedNoise.dir
