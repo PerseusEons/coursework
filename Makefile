@@ -1,4 +1,4 @@
-PROJECT_NAME := ight
+PROJECT_NAME := Light
 
 BUILD_DIR := build
 
